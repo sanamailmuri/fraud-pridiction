@@ -14,7 +14,7 @@ The Blocker Fraud Company is a company specialized in detecting fraud in financi
 
 The business model of the company is of the Service type with the monetization made by the performance of the service provided, in other words, the user pays a fixed fee on the success in detecting fraud in the customer's transactions.
 
-However, the Blocker Fraud Company is expanding in Brazil and to acquire customers more quickly, it has adopted a very aggressive strategy. The strategy works as follows:
+The strategy works as follows:
 
 1. The company will receive 25% of the value of each transaction truly detected as fraud;
 
@@ -194,6 +194,3 @@ The company may expect a revenue of R\$ 57,251,574.44. This result may show the 
 
 * Implement the api on the heroku plataform.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
